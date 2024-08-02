@@ -272,3 +272,10 @@ h1{
     margin: 1rem;
 }
 
+#link {
+    display: flex;
+    justify-content: center;align-items: center;
+    color: black;
+    margin: 2rem;
+    font-size: 2rem;
+}
